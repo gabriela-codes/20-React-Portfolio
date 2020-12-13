@@ -1,0 +1,25 @@
+
+body{
+    margin:0; 
+    padding:0; 
+    font-size:15px; 
+    font-family:Georgia, "Times New Roman", Times, serif; 
+    color:#cae8f7; background-color:#1a0303;}
+
+header{
+    padding:20px 0;
+}
+
+#headergabriela {
+    float:left; 
+    margin:0 0 20px 0;
+}
+
+h1 {
+    font-size:36px;
+    font-weight: normal;
+    font-style:normal; 
+    text-transform:none;
+}
+
+
