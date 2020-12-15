@@ -1,35 +1,42 @@
 
 body{
-    margin:0; 
-    padding:0; 
+    margin-top:50px; 
+    padding:50; 
     font-size:15px; 
     font-family:Georgia, "Times New Roman", Times, serif; 
-    color:#cae8f7; background-color:#1a0303;}
+    color:#065a85; 
 
-header{
-    padding:20px 0;
+    background: 
+        url(background.png); 
+        background-repeat: no-repeat;
+        background-color: #cae8f7;
+        background-position: center;
+        background-size: cover;
 }
 
+
 #headergabriela {
-    float:left; 
-    margin:0 0 20px 0;
+    padding:20px 20px 20px 200px;
+    float: middle;
+    margin: 0px 20px 20px 20px;
 }
 
 h1 {
-    font-size:36px;
+    font-size:100px;
     font-weight: normal;
     font-style:normal; 
     text-transform:none;
+    float: middle;
 }
 
 nav{
     display:block; float:right; 
-    margin:10px 0 0 0; 
-    padding:20px 0; 
+    padding:0px 20; 
     color:#cae8f7; 
     background-color:#f3f2f2;}
+
 nav ul{
-    padding:0 20px;
+    padding:30px;
 }
 nav li{
     display:inline; 
@@ -42,11 +49,12 @@ nav li{
 nav li a{
     color:#040505; 
     background-color:#fffdfd;}
+    
  nav li a:hover{
      color:#3a74c0; 
-     background-color:#fafafa;}
+     background-color:#9ea3aa;}
 
 #wrapperbox {
-    margin-left: 0;
+    margin-left: 50;
 }
 
